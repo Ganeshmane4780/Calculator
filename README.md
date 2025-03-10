@@ -3,6 +3,7 @@ Calculator:-
 A simple and responsive web-based calculator built using HTML, CSS, and JavaScript. This project performs basic arithmetic operations and offers a user-friendly interface suitable for quick calculations.
 
 🌟 Features:-
+
 -Basic Arithmetic Operations: Supports addition, subtraction, multiplication, division, and percentage calculations.
 
 -Responsive Design: Ensures optimal usability across various devices and screen sizes.
@@ -14,11 +15,11 @@ A simple and responsive web-based calculator built using HTML, CSS, and JavaScri
 
 🛠️Technologies Used:-
 
-HTML5: Structures the calculator's layout and elements.
+-HTML5: Structures the calculator's layout and elements.
 
-CSS3: Styles the calculator with a clean and modern design.
+-CSS3: Styles the calculator with a clean and modern design.
 
-JavaScript: Implements the core functionality and interactivity.
+-JavaScript: Implements the core functionality and interactivity.
 
 Preview-
 ![image](https://github.com/user-attachments/assets/21476487-ada5-4017-9ec2-f129bbfd2c5e)
